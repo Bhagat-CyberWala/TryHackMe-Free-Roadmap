@@ -57,7 +57,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [x] [TryHackMe | Welcome]([https://tryhackme.com/room/welcome](https://tryhackme.com/r/room/hello))
+- [x] [TryHackMe | Welcome](https://tryhackme.com/r/room/hello)
 
 - [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
