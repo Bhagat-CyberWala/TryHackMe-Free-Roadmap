@@ -21,33 +21,33 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **10**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **5**           |
-| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
-| **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
-| **[Reconnaissance](#recon)**                      |     **10**      |                           |
-| **[Scripting](#scripting)**                       |      **8**      |                           |
-| **[Networking](#networking)**                     |      **7**      |                           |
-| **[Tooling](#tooling)**                           |     **17**      |                           |
-| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
-| **[Steganography](#steganography)**               |      **6**      |                           |
-| **[Web](#web)**                                   |     **27**      |                           |
-| **[Android](#android)**                           |      **1**      |                           |
-| **[Forensics](#forensics)**                       |      **5**      |                           |
-| **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
-| **[Reverse Engineering](#reverse-engineering)**   |     **11**      |                           |
-| **[Malware Analysis](#malware-analysis)**         |      **7**      |                           |
-| **[Privilege Escalation](#privesc)**              |     **13**      |                           |
-| **[Windows](#windows)**                           |      **7**      |                           |
-| **[Active Directory](#active-directory)**         |      **5**      |                           |
-| **[PCAP Analysis](#pcap-analysis)**               |      **4**      |                           |
-| **[Buffer Overflow](#bufferoverflow)**            |      **4**      |                           |
-| **[Easy CTF](#easy-ctf)**                         |     **58**      |                           |
-| **[Medium CTF](#medium-ctf)**                     |     **73**      |                           |
-| **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
-| **[Misc](#misc)**                                 |     **35**      |                           |
-| **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **378**     |                           |
+| **[Introductory Rooms](#intro-rooms)**            |     **10**      |           **0**           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **0**           |
+| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |           **0**           |
+| **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **0**           |
+| **[Reconnaissance](#recon)**                      |     **10**      |           **0**           |
+| **[Scripting](#scripting)**                       |      **8**      |           **0**           |
+| **[Networking](#networking)**                     |      **7**      |           **0**           |
+| **[Tooling](#tooling)**                           |     **17**      |           **0**           |
+| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |           **0**           |
+| **[Steganography](#steganography)**               |      **6**      |           **0**           |
+| **[Web](#web)**                                   |     **27**      |           **0**           |
+| **[Android](#android)**                           |      **1**      |           **0**           |
+| **[Forensics](#forensics)**                       |      **5**      |           **0**           |
+| **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |           **0**           |
+| **[Reverse Engineering](#reverse-engineering)**   |     **11**      |           **0**           |
+| **[Malware Analysis](#malware-analysis)**         |      **7**      |           **0**           |
+| **[Privilege Escalation](#privesc)**              |     **13**      |           **0**           |
+| **[Windows](#windows)**                           |      **7**      |           **0**           |
+| **[Active Directory](#active-directory)**         |      **5**      |           **0**           |
+| **[PCAP Analysis](#pcap-analysis)**               |      **4**      |           **0**           |
+| **[Buffer Overflow](#bufferoverflow)**            |      **4**      |           **0**           |
+| **[Easy CTF](#easy-ctf)**                         |     **58**      |           **0**           |
+| **[Medium CTF](#medium-ctf)**                     |     **73**      |           **0**           |
+| **[Hard CTF](#hard-ctf)**                         |     **38**      |           **0**           |
+| **[Misc](#misc)**                                 |     **35**      |           **0**           |
+| **[Special Events](#special-events)**             |      **9**      |           **0**           |
+| **Total Rooms:**                                  |     **378**     |           **0**           |
 
 ## Intro Rooms
 
